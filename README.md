@@ -13,12 +13,6 @@ A web-based Python code interpreter built with Django for the backend and HTML +
 
 ---
 
-## 💻 Demo
-
-> Coming soon – will deploy on Render or Replit.
-
----
-
 ## 🏗️ Tech Stack
 
 - **Backend:** Python, Django
